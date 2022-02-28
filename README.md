@@ -14,4 +14,11 @@
 * Newton, shakepay, bitbuy, coinberry
 
 ## Results
+* Coinsquare fees is more concise and clear to other platforms. The technology has taken significant steps towards mainstream recognition. Now, governments, global enterprises, and startups invest in its infrastructure and raise large funds to propel new projects. Almost every consulting firm has declared their belief on the potential impact of blockchain technology on a range of industries.
+* Simple, straightforward signup process Mobile app available for both iOS and Android platforms QuickTrade feature allows you to instantly convert 1 crypto asset to another, High-level security and cold storage for tokens and coins.
+* Coinsquare is far from the only cryptocurrency broker operating on the market — and if you live outside of Canada, you’ll need to open an account with one of Coinsquare’s competitors.
+## Recommendations
+* I would tell them about fees structure, mobile application, Coinsquare’s platform features 100% proprietary technology. QuickTrade functionality,  The trading platform claims to store 95% of the tokens and coins on its server in offline cold storage, Support for the most popular crypto assets.
+* Clear vision for the Retail trader and investors who are trying to invest in crypto.
+* Machine learning and deep learning. Option for the retail traders to know much about the crypto, future prediction algorithms. It' going to attract more user in the market, competitors don't provide this kind of technology to their user.
 
